@@ -10,7 +10,7 @@
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-javier-rufo-cabrera-687609239/)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](KiRZeN24#4611)
+[![Discord](https://img.shields.io/badge/KiRZeN24%234611-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/KiRZeN24#4611)
 [![Codewars](https://www.codewars.com/users/KiRZeN24/badges/micro)](https://www.codewars.com/users/KiRZeN24)
 
 ## 👨‍💻 Portfolio Repositories
