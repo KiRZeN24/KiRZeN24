@@ -11,7 +11,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-javier-rufo-cabrera-687609239/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](KiRZeN24#4611)
-[![Codewars](https://www.codewars.com/users/darellanodev/badges/micro)](https://www.codewars.com/users/KiRZeN24)
+[![Codewars](https://www.codewars.com/users/KiRZeN24/badges/micro)](https://www.codewars.com/users/KiRZeN24)
 
 ## 👨‍💻 Portfolio Repositories
 
@@ -56,18 +56,18 @@
 
 ### Package managers
 
-[![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff&style=flat)](https://github.com/KiRZeN2)
-[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=flat)](https://github.com/KiRZeN2)
-[![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff&style=flat)](https://github.com/KiRZeN2)
+[![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff&style=flat)](https://github.com/KiRZeN24)
+[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=flat)](https://github.com/KiRZeN24)
+[![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff&style=flat)](https://github.com/KiRZeN24)
 
 ### Data
 
-[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white&style=flat)](https://github.com/KiRZeN2)
+[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white&style=flat)](https://github.com/KiRZeN24)
 
 ### Infrastructure
 
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white&style=flat)](https://github.com/KiRZeN2)
-[![Apache](https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColor=white&style=flat)](https://github.com/KiRZeN2)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white&style=flat)](https://github.com/KiRZeN24)
+[![Apache](https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColor=white&style=flat)](https://github.com/KiRZeN24)
 
 
 ## 📊 GitHub Stats
