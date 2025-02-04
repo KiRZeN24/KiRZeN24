@@ -1,12 +1,15 @@
 # 👋 Hi, I’m @KiRZeN24
 
-- 👀 I’m interested in the process of learn how everything works
+- 📚 I’m interested in the process of learn how everything works
 - 🌱 I’m currently learning PHP and JavaScript
 
-- You can view my portfolio here:
+- 👀 You can view my portfolio here:
 
-[![My portfolio](https://img.shields.io/badge/My%20portfolio-%230077B5.svg)](https://kirzen24.github.io/)
-[![My CV](https://img.shields.io/badge/My%20CV-%230077B5.svg)](https://kirzen24.github.io/cv.html)
+    [![My portfolio](https://img.shields.io/badge/My%20portfolio-%230077B5.svg)](https://kirzen24.github.io/)
+
+- 👀 You can view my currículum vitae:
+  
+    [![My CV](https://img.shields.io/badge/My%20CV-%230077B5.svg)](https://kirzen24.github.io/cv.html)
 
 ## 🌐 Socials
 
