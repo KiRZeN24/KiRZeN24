@@ -5,7 +5,8 @@
 
 - You can view my portfolio here:
 
-[![My portfolio](https://img.shields.io/badge/My%20portfolio-%230077B5.svg)](https://kirzen24.github.io//)
+[![My portfolio](https://img.shields.io/badge/My%20portfolio-%230077B5.svg)](https://kirzen24.github.io/)
+[![My CV](https://img.shields.io/badge/My%20CV-%230077B5.svg)](https://kirzen24.github.io/cv.html)
 
 ## 🌐 Socials
 
