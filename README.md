@@ -35,6 +35,24 @@
     </table>
 </div>
 
+## 📚 Learning & Practice Projects
+
+<div>
+    <table>
+        <tr>
+            <td>
+                <a href="https://github.com/KiRZeN24/SchemaFlow">
+                    <img src="https://img.shields.io/badge/SchemaFlow-0078D7.svg?logo=github&logoColor=white&style=flat" alt="SchemaFlow">
+                </a>
+                <br>
+                <a href="https://github.com/KiRZeN24/SchemaFlow/issues">
+                    <img src="https://img.shields.io/github/issues-raw/KiRZeN24/SchemaFlow.svg?style=flat&logo=github&logoColor=white" alt="issues">
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>
+
 ## 💻 Tech Stack
 
 ### Frontend
