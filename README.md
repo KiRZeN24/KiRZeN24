@@ -49,6 +49,42 @@
                     <img src="https://img.shields.io/github/issues-raw/KiRZeN24/SchemaFlow.svg?style=flat&logo=github&logoColor=white" alt="issues">
                 </a>
             </td>
+            <td>
+                <a href="https://github.com/KiRZeN24/ZGamersZ">
+                    <img src="https://img.shields.io/badge/ZGamersZ-0078D7.svg?logo=github&logoColor=white&style=flat" alt="ZGamersZ">
+                </a>
+                <br>
+                <a href="https://github.com/KiRZeN24/ZGamersZ/issues">
+                    <img src="https://img.shields.io/github/issues-raw/KiRZeN24/ZGamersZ.svg?style=flat&logo=github&logoColor=white" alt="issues">
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/KiRZeN24/CodeWars">
+                    <img src="https://img.shields.io/badge/CodeWars-0078D7.svg?logo=github&logoColor=white&style=flat" alt="CodeWars">
+                </a>
+                <br>
+                <a href="https://github.com/KiRZeN24/CodeWars/issues">
+                    <img src="https://img.shields.io/github/issues-raw/KiRZeN24/CodeWars.svg?style=flat&logo=github&logoColor=white" alt="issues">
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/KiRZeN24/ToDoList-Frontend">
+                    <img src="https://img.shields.io/badge/ToDoListFrontend-0078D7.svg?logo=github&logoColor=white&style=flat" alt="ToDoList-Frontend">
+                </a>
+                <br>
+                <a href="https://github.com/KiRZeN24/ToDoList-Frontend/issues">
+                    <img src="https://img.shields.io/github/issues-raw/KiRZeN24/ToDoList-Frontend.svg?style=flat&logo=github&logoColor=white" alt="issues">
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/KiRZeN24/ToDoList">
+                    <img src="https://img.shields.io/badge/ToDoList-0078D7.svg?logo=github&logoColor=white&style=flat" alt="ToDoList">
+                </a>
+                <br>
+                <a href="https://github.com/KiRZeN24/ToDoList/issues">
+                    <img src="https://img.shields.io/github/issues-raw/KiRZeN24/ToDoList.svg?style=flat&logo=github&logoColor=white" alt="issues">
+                </a>
+            </td>
         </tr>
     </table>
 </div>
