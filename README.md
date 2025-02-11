@@ -89,6 +89,24 @@
     </table>
 </div>
 
+## 🤝Collaborations
+
+<div>
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/KiRZeN24/face-toon-maker">
+          <img src="https://img.shields.io/badge/face--toon--maker-0078D7.svg?logo=github&logoColor=white&style=flat" alt="face-toon-maker">
+        </a>
+        <br>
+        <a href="https://github.com/KiRZeN24/face-toon-maker/issues">
+          <img src="https://img.shields.io/github/issues-raw/KiRZeN24/face-toon-maker.svg?style=flat&logo=github&logoColor=white" alt="issues">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## 💻 Tech Stack
 
 ### Frontend
