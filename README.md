@@ -67,6 +67,8 @@
                     <img src="https://img.shields.io/github/issues-raw/KiRZeN24/CodeWars.svg?style=flat&logo=github&logoColor=white" alt="issues">
                 </a>
             </td>
+        </tr>
+        <tr>
             <td>
                 <a href="https://github.com/KiRZeN24/ToDoList-Frontend">
                     <img src="https://img.shields.io/badge/ToDoList--Frontend-0078D7.svg?logo=github&logoColor=white&style=flat" alt="ToDoList-Frontend">
@@ -83,6 +85,15 @@
                 <br>
                 <a href="https://github.com/KiRZeN24/ToDoList/issues">
                     <img src="https://img.shields.io/github/issues-raw/KiRZeN24/ToDoList.svg?style=flat&logo=github&logoColor=white" alt="issues">
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/KiRZeN24/landing-checker">
+                    <img src="https://img.shields.io/badge/landing--checker-0078D7.svg?logo=github&logoColor=white&style=flat" alt="landing-checker">
+                </a>
+                <br>
+                <a href="https://github.com/KiRZeN24/landing-checker/issues">
+                    <img src="https://img.shields.io/github/issues-raw/KiRZeN24/landing-checker.svg?style=flat&logo=github&logoColor=white" alt="issues">
                 </a>
             </td>
         </tr>
