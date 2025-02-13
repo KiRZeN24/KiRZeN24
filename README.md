@@ -7,7 +7,7 @@
 
     [![My portfolio](https://img.shields.io/badge/My%20portfolio-%230077B5.svg)](https://kirzen24.github.io/)
 
-- 👀 You can view my currículum vitae:
+- 👀 You can view my currículum vitae here:
   
     [![My CV](https://img.shields.io/badge/My%20CV-%230077B5.svg)](https://kirzen24.github.io/cv.html)
 
@@ -69,7 +69,7 @@
             </td>
             <td>
                 <a href="https://github.com/KiRZeN24/ToDoList-Frontend">
-                    <img src="https://img.shields.io/badge/ToDoListFrontend-0078D7.svg?logo=github&logoColor=white&style=flat" alt="ToDoList-Frontend">
+                    <img src="https://img.shields.io/badge/ToDoList--Frontend-0078D7.svg?logo=github&logoColor=white&style=flat" alt="ToDoList-Frontend">
                 </a>
                 <br>
                 <a href="https://github.com/KiRZeN24/ToDoList-Frontend/issues">
