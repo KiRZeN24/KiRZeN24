@@ -114,6 +114,15 @@
           <img src="https://img.shields.io/github/issues-raw/KiRZeN24/face-toon-maker.svg?style=flat&logo=github&logoColor=white" alt="issues">
         </a>
       </td>
+        <td>
+        <a href="https://github.com/KiRZeN24/yt-dlp-gui">
+          <img src="https://img.shields.io/badge/yt--dlp--gui-0078D7.svg?logo=github&logoColor=white&style=flat" alt="yt-dlp-gui">
+        </a>
+        <br>
+        <a href="https://github.com/KiRZeN24/yt-dlp-gui/issues">
+          <img src="https://img.shields.io/github/issues-raw/KiRZeN24/yt-dlp-gui.svg?style=flat&logo=github&logoColor=white" alt="issues">
+        </a>
+      </td>
     </tr>
   </table>
 </div>
