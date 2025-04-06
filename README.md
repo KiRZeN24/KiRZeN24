@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @KiRZeN24
 
 - 📚 I’m interested in the process of learn how everything works
-- 🌱 I’m currently learning PHP and JavaScript
+- 🌱 I’m currently pursuing a Master's degree in Advanced Web Development
 
 - 👀 You can view my portfolio here:
 
