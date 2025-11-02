@@ -17,18 +17,27 @@
 [![Discord](https://img.shields.io/badge/KiRZeN24%234611-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/KiRZeN24#4611)
 [![Codewars](https://www.codewars.com/users/KiRZeN24/badges/micro)](https://www.codewars.com/users/KiRZeN24)
 
-## 👨‍💻 Portfolio Repositories
+## 🚀 Application Repositories
 
 <div>
     <table>
         <tr>
             <td>
-                <a href="https://github.com/KiRZeN24/kirzen24.github.io">
-                    <img src="https://img.shields.io/badge/kirzen24.github.io-0078D7.svg?logo=github&logoColor=white&style=flat" alt="kirzen24.github.io">
+                <a href="https://github.com/KiRZeN24/FarmaZGZ-frontend">
+                    <img src="https://img.shields.io/badge/FarmaZGZ--frontend-0078D7.svg?logo=github&logoColor=white&style=flat" alt="farmazgz-frontend">
                 </a>
                 <br>
-                <a href="https://github.com/KiRZeN24/kirzen24.github.io/issues">
-                    <img src="https://img.shields.io/github/issues-raw/kirzen24/kirzen24.github.io.svg?style=flat&logo=github&logoColor=white" alt="issues">
+                <a href="https://github.com/KiRZeN24/FarmaZGZ-frontend/issues">
+                    <img src="https://img.shields.io/github/issues-raw/kirzen24/farmazgz-frontend.svg?style=flat&logo=github&logoColor=white" alt="issues">
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/KiRZeN24/FarmaZGZ">
+                    <img src="https://img.shields.io/badge/FarmaZGZ-0078D7.svg?logo=github&logoColor=white&style=flat" alt="farmazgz">
+                </a>
+                <br>
+                <a href="https://github.com/KiRZeN24/FarmaZGZ/issues">
+                    <img src="https://img.shields.io/github/issues-raw/kirzen24/farmazgz.svg?style=flat&logo=github&logoColor=white" alt="issues">
                 </a>
             </td>
         </tr>
@@ -127,6 +136,24 @@
   </table>
 </div>
 
+## 👨‍💻 Portfolio Repositories
+
+<div>
+    <table>
+        <tr>
+            <td>
+                <a href="https://github.com/KiRZeN24/kirzen24.github.io">
+                    <img src="https://img.shields.io/badge/kirzen24.github.io-0078D7.svg?logo=github&logoColor=white&style=flat" alt="kirzen24.github.io">
+                </a>
+                <br>
+                <a href="https://github.com/KiRZeN24/kirzen24.github.io/issues">
+                    <img src="https://img.shields.io/github/issues-raw/kirzen24/kirzen24.github.io.svg?style=flat&logo=github&logoColor=white" alt="issues">
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>
+
 ## 💻 Tech Stack
 
 ### Frontend
@@ -137,11 +164,15 @@
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)](https://github.com/KiRZeN24)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white&style=flat)](https://github.com/KiRZeN24)
 [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat)](https://github.com/KiRZeN24)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)](https://github.com/KiRZeN24)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)](https://github.com/KiRZeN24)
 
 ### Backend
 
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white&style=flat)](https://github.com/KiRZeN24)
 [![Node.Js](https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white&style=flat)](https://github.com/KiRZeN24)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=flat)](https://github.com/KiRZeN24)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)](https://github.com/KiRZeN24)
 
 ### Testing
 
@@ -159,6 +190,7 @@
 ### Data
 
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white&style=flat)](https://github.com/KiRZeN24)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat)](https://github.com/KiRZeN24)
 
 ### Infrastructure
 
