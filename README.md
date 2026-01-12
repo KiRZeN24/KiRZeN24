@@ -136,24 +136,6 @@
   </table>
 </div>
 
-## 👨‍💻 Portfolio Repositories
-
-<div>
-    <table>
-        <tr>
-            <td>
-                <a href="https://github.com/KiRZeN24/kirzen24.github.io">
-                    <img src="https://img.shields.io/badge/kirzen24.github.io-0078D7.svg?logo=github&logoColor=white&style=flat" alt="kirzen24.github.io">
-                </a>
-                <br>
-                <a href="https://github.com/KiRZeN24/kirzen24.github.io/issues">
-                    <img src="https://img.shields.io/github/issues-raw/kirzen24/kirzen24.github.io.svg?style=flat&logo=github&logoColor=white" alt="issues">
-                </a>
-            </td>
-        </tr>
-    </table>
-</div>
-
 ## 💻 Tech Stack
 
 ### Frontend
